@@ -1,0 +1,30 @@
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  padding: 20px;
+  background: linear-gradient(to bottom, #3498db, #2980b9);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  background: linear-gradient(to bottom, #FFF, #EEE);
+  margin-top: 10px;
+}
+
+button:hover {
+  background: linear-gradient(to bottom, #EEE, #FFF);
+}
+
+.alert {
+  background: linear-gradient(to bottom, #e74c3c, #c0392b);
+}
+
+.success {
+  background: linear-gradient(to bottom, #EEE, #27ae60);
+}
+
+input {
+  margin-top: 10px;
+}

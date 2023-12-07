@@ -1,0 +1,16 @@
+.bookmark-item {
+  border: 1px solid #3498db;
+  background: linear-gradient(to bottom, #f9f9f9, #ecf0f1);
+}
+
+.delete-btn {
+  background: linear-gradient(to bottom, #d9534f, #c9302c);
+}
+
+.update-btn {
+  background: linear-gradient(to bottom, #5bc0de, #46b8da);
+}
+
+button[type="submit"] {
+  background: linear-gradient(to bottom, #FFF, #EEE);
+}

@@ -1,0 +1,20 @@
+.result-container {
+    background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-content {
+    color: #333;
+  }
+  
+  .result-description {
+    color: #555;
+  }
+  
+  .result {
+    color: #007bff;
+  }
+  
+  .result-script {
+    color: #555;
+  }
